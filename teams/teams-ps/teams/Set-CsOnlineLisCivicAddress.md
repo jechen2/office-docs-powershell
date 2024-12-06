@@ -16,7 +16,8 @@ ms.reviewer:
 Use the \`Set-CsOnlineLisCivicAddress\` cmdlet to modify an existing civic address which has not been validated.
 Validated civic addresses cannot be modified.
 
-**Note:** This cmdlet is only available for Microsoft internal use.
+**Note:** This cmdlet is only available for editing addresses of the following countires/regions: 
+AU, BR, CA, HR, CZ, EE, HK, HU, IL, JP, LV, LT, MX, NZ, PL, PR, RO, SG, KR, SI, ZA, US
 
 ## SYNTAX
 
